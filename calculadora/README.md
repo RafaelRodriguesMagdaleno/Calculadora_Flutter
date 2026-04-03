@@ -15,3 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Para carregar as bibliotecas e suas dependências no terminal use o comando "flutter pub get", caso não carregue na primeira vez, digite o mesmo comando mais 2 vezes
